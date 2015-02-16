@@ -180,3 +180,13 @@ I think this is a good reference with you want to quickly look for SQL statement
 http://www.w3schools.com/sql/
 
 ========================================================
+===Suggestions By Abdullah Alasiri======================
+Getting Started with Entity Framework 6 Database First using MVC 5.
+To produce code that allows users practicing convenient web application that provide an interface to an existing data are MVC, Entity Framework and ASP.NET. A good resource to start with is:
+https://www.asp.net/mvc/overview/getting-started/database-first-development/setting-up-database.
+Also, here are 25 playlist video tutorial to start working on Entity Framework.
+https://www.youtube.com/watch?v=Z7713GBhi4k&list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6zBZx
+Also, a good reference for step by step getting started with Entity Framework 6 First using MVC 5 is available in these books from Microsoft:
+file:///C:/Users/abdullahalasiri/Documents/Getting%20Started%20with%20Entity%20Framework%206%20Code%20First%20using%20MVC%205.pdf
+and 
+http://ptgmedia.pearsoncmg.com/images/9780735664166/samplepages/9780735664166.pdf
